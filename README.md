@@ -1,0 +1,2 @@
+# tema
+ Meu tema WordPress
